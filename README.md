@@ -8,4 +8,5 @@ Aliquip laboris sunt exercitation Lorem ea irure. Sit eiusmod laboris nostrud en
 
 ## Miembros
 
-1. **Lex Luthor** Laboris labore dolore enim excepteur culpa exercitation labore eu reprehenderit duis cupidatat.
+1. **Lex Luthor** - Laboris labore dolore enim excepteur culpa exercitation labore eu reprehenderit duis cupidatat.
+2. **Joker** - Id cupidatat anim ut aliquip.
