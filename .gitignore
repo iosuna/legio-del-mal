@@ -1,1 +1,9 @@
 codigos-lanzamiento.env
+
+dist/
+node_modules/
+
+logs/server*.log
+!logs/server.log
+
+*.env
