@@ -10,3 +10,5 @@ Aliquip laboris sunt exercitation Lorem ea irure. Sit eiusmod laboris nostrud en
 
 1. **Lex Luthor** - Laboris labore dolore enim excepteur culpa exercitation labore eu reprehenderit duis cupidatat.
 2. **Joker** - Id cupidatat anim ut aliquip.
+3. **Thanos** - Fugiat aute sint labore anim veniam quis minim.
+4. **Magneto** - Irure aliquip ea aliquip laborum nulla qui.
