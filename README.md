@@ -16,6 +16,7 @@ Somos la alianza definitiva de supervillanos. Mientras los héroes se dividen en
 📁 inteligencia/    → Expedientes de los héroes enemigos
 📄 misiones.yaml    → Estado global de todas las misiones
 📄 nuevas-misiones.yaml    → Voluptate sunt anim ex ut est reprehenderit.
+📄 README.md        → Aliqua minim minim minim culpa id nisi qui excepteur quis.
 ```
 
 ## El Consejo de Villanos
