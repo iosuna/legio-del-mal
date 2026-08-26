@@ -15,7 +15,10 @@ Somos la alianza definitiva de supervillanos. Mientras los héroes se dividen en
 📁 guaridas/        → Ubicaciones y estado de nuestras bases
 📁 inteligencia/    → Expedientes de los héroes enemigos
 📄 misiones.yaml    → Estado global de todas las misiones
+<<<<<<< Updated upstream
 📄 nuevas-misiones.yaml    → Voluptate sunt anim ex ut est reprehenderit.
+=======
+>>>>>>> Stashed changes
 📄 README.md        → Aliqua minim minim minim culpa id nisi qui excepteur quis.
 ```
 
